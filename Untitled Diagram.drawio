@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T15:58:12.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="1ajJT-ZmFC_GFbd212S-" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-15T15:59:19.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="gnZ6wWAnWEpCi5CBnAzP" version="14.6.0" type="github">
   <diagram id="kwbziUqv7efPVH0OtAez" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -276,6 +276,21 @@
               <mxPoint x="550" y="401" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VqJevV1jIJvRDieYaU5m-71" value="payment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="720" y="70" width="110" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="VqJevV1jIJvRDieYaU5m-72" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="VqJevV1jIJvRDieYaU5m-71">
+          <mxGeometry y="26" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqJevV1jIJvRDieYaU5m-73" value="name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="VqJevV1jIJvRDieYaU5m-71">
+          <mxGeometry y="56" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqJevV1jIJvRDieYaU5m-74" value="password" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="VqJevV1jIJvRDieYaU5m-71">
+          <mxGeometry y="86" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqJevV1jIJvRDieYaU5m-75" value="address" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="VqJevV1jIJvRDieYaU5m-71">
+          <mxGeometry y="116" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
