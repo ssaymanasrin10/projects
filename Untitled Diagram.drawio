@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T19:45:58.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-EjlKQrJDzs3XByxs9tC" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T09:49:39.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Kh6dP_wJWw9EIAj1dkwq" version="14.6.6" type="github">
   <diagram id="kwbziUqv7efPVH0OtAez" name="Page-1">
     <mxGraphModel dx="1855" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -424,11 +424,10 @@
         <mxCell id="lawATDH_7k0T81VRKeOm-176" value="s_name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="666" y="300" width="68" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lawATDH_7k0T81VRKeOm-203" value="" style="edgeStyle=none;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;endSize=2;" edge="1" parent="1" source="lawATDH_7k0T81VRKeOm-177" target="lawATDH_7k0T81VRKeOm-174">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lawATDH_7k0T81VRKeOm-177" value="s_mobile no" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="350" width="68" height="50" as="geometry" />
+        <mxCell id="lawATDH_7k0T81VRKeOm-203" value="" style="edgeStyle=none;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;endSize=2;" edge="1" parent="1" target="lawATDH_7k0T81VRKeOm-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.2383095360392" y="364.35172253170595" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lawATDH_7k0T81VRKeOm-178" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lawATDH_7k0T81VRKeOm-175" target="lawATDH_7k0T81VRKeOm-174">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -466,9 +465,6 @@
         <mxCell id="lawATDH_7k0T81VRKeOm-186" value="v_name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="230" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="lawATDH_7k0T81VRKeOm-187" value="v_mobile no" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="340" width="80" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="lawATDH_7k0T81VRKeOm-188" value="" style="endArrow=none;html=1;exitX=0.673;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lawATDH_7k0T81VRKeOm-186">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-240" y="260" as="sourcePoint" />
@@ -478,12 +474,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lawATDH_7k0T81VRKeOm-189" value="" style="endArrow=none;html=1;exitX=0.875;exitY=0.111;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lawATDH_7k0T81VRKeOm-187">
+        <mxCell id="lawATDH_7k0T81VRKeOm-189" value="" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lawATDH_7k0T81VRKeOm-234">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-180.00000000000009" y="349.9950000000001" as="sourcePoint" />
+            <mxPoint x="-200" y="344.9950000000001" as="sourcePoint" />
             <mxPoint x="-140" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-140" y="330" />
+              <mxPoint x="-160" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -514,12 +511,12 @@
         </mxCell>
         <mxCell id="lawATDH_7k0T81VRKeOm-199" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-240" y="520" as="sourcePoint" />
-            <mxPoint x="-140" y="330" as="targetPoint" />
+            <mxPoint x="-230" y="522.5" as="sourcePoint" />
+            <mxPoint x="-130" y="333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lawATDH_7k0T81VRKeOm-200" value="directed&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="-270" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lawATDH_7k0T81VRKeOm-201" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=2;jumpStyle=gap;" edge="1" parent="1" source="lawATDH_7k0T81VRKeOm-200">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -557,7 +554,7 @@
         <mxCell id="lawATDH_7k0T81VRKeOm-213" value="" style="edgeStyle=none;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;endSize=2;" edge="1" parent="1" source="lawATDH_7k0T81VRKeOm-207" target="lawATDH_7k0T81VRKeOm-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lawATDH_7k0T81VRKeOm-207" value="Acountant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lawATDH_7k0T81VRKeOm-207" value="Accountant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lawATDH_7k0T81VRKeOm-208" value="a_name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -652,6 +649,27 @@
             <mxPoint x="-400" y="430" as="sourcePoint" />
             <mxPoint x="-370" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lawATDH_7k0T81VRKeOm-231" value="manage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="285" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lawATDH_7k0T81VRKeOm-232" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lawATDH_7k0T81VRKeOm-231">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="320" as="sourcePoint" />
+            <mxPoint x="-15" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lawATDH_7k0T81VRKeOm-233" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="lawATDH_7k0T81VRKeOm-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="325" as="sourcePoint" />
+            <mxPoint x="150" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lawATDH_7k0T81VRKeOm-234" value="v_mobile no" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-297.5" y="340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lawATDH_7k0T81VRKeOm-235" value="s_mobile no" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="350" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
